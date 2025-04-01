@@ -7,7 +7,7 @@
     "react": "^16.20.2",
     "react-dom": "^16.20.2",
     "react-scripts": "^4.0.3"
-  },
+  }
   
   "scripts": {
     "start": "node app.js",
